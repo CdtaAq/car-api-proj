@@ -1,0 +1,5 @@
+– Create the car table
+CREATE TABLE IF NOT EXISTS car (
+id VARCHAR(255) PRIMARY KEY,
+name VARCHAR(255) NOT NULL
+);
